@@ -1,0 +1,9 @@
+{
+    "path" : "~/IBM",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
